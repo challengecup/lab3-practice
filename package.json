@@ -1,0 +1,23 @@
+{
+  "name": "lab3-practice",
+  "version": "1.0.0",
+  "description": "lab3-practice",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon main.js",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Hiep Do",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "jsonserver": "^0.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}

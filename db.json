@@ -1,0 +1,33 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Phone",
+            "createAt": 1616839770240,
+            "updateAt": 1616839770240
+        }
+    ],
+
+    "products": [
+        {
+            "id": 1,
+            "name": "IPhone X",
+            "createAt": 1616839770240,
+            "updateAt": 1616839770240,
+            "categoryId": 1,
+            "salePrice": 15000000
+        },
+        {
+            "id": 1,
+            "name": "IPhone 12 Pro Max",
+            "createAt": 1616839770240,
+            "updateAt": 1616839770240,
+            "categoryId": 1,
+            "salePrice": 35000000
+        }
+    ],
+
+    "profile": {
+        "name": "Hiep Do"
+    }
+}
